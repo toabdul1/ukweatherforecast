@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Weather Forecast</string>
+  <string name="action_settings">Settings</string>
+
+  <string name="london_uk">London, UK</string>
+  <string name="temp_data_example">273.15</string>
+    <string name="no_internet_txt">No Data available. Please check internet and try again</string>
+</resources>
